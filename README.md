@@ -14,13 +14,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on my project , Codial , which will be a social media platform and a safe space for all developers .
+- 🔭 I’m currently working on the RocketChat GitHub Integration under Google Summer of Code.
 
-- 🌱 I’m currently learning how to develop scalable WebApps with React-Redux  and Node.js. Also looking forward to learning more technologies like Elixir and GraphQL. 
+- 🌱 Learning how to develop scalable WebApps with React-Redux and Node.js. Also looking forward to learning more technologies like Elixir and GraphQL. 
 
 - 👯 I’m looking to collaborate on Opens Source Projects and Hackathons 
 
-- 💬 Talk to me about ReactJS , Open Source and  Web Development   
+- 💬 Talk to me about ReactJS, Open Source and Web Development   
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32px" height="30px"> </h2>
 <a href= https://github.com/samad-yar-khan?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
