@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samad-yar-khan.samad-yar-khan)
 
 </p>
-<div size='20px'> Hi! My name is Samad Yar Khan. I am an engineering sophomore interested in Web Technologies , OpenSource and Problem Solving , thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Samad Yar Khan. I am senior year engineering student at NSUT (New Delhi, India). I am interested in Web Technologies , OpenSource and Problem Solving , thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
@@ -14,13 +14,15 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on the RocketChat GitHub Integration under Google Summer of Code.
+- 🔭 I’m currently working as Software Engineering Intern at [Middleware](https://www.middlewarehq.com/). My work is focused on developing scalable services using Python, AWS Chalice and Postgres. I have also developed new components to improve user experience using React.js, Next.js and Redux. 
+  
+- :star: I have worked on the [RocketChat GitHub Integration](https://github.com/RocketChat/Apps.Github22) under [Google Summer of Code](https://summerofcode.withgoogle.com/programs/2022/projects/dzvkQrUI).
+  
+- 🌱 I am currently acting as the maintainer of [GitHub Rocket.Chat App](https://github.com/RocketChat/Apps.Github22) and mentoring new folks interested in OpenSource.
 
-- 🌱 Learning how to develop scalable WebApps with React-Redux and Node.js. Also looking forward to learning more technologies like Elixir and GraphQL. 
+- 👯 I’m looking to collaborate on Opens Source Projects and Hackathons .
 
-- 👯 I’m looking to collaborate on Opens Source Projects and Hackathons 
-
-- 💬 Talk to me about ReactJS, Open Source and Web Development   
+- 💬 Talk to me about Software Engineering, Open Source and Scaling Web Apps.   
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32px" height="30px"> </h2>
 <a href= https://github.com/samad-yar-khan?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
