@@ -14,9 +14,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working as Software Engineering Intern at [Middleware](https://www.middlewarehq.com/). My work is focused on developing scalable services using Python, AWS Chalice and Postgres. I have also developed new components to improve user experience using React.js, Next.js and Redux. 
+- 🔭 I’m working as Software Engineering Intern at [Middleware](https://www.middlewarehq.com/). My work is focused on developing scalable services using Python, AWS Chalice and Postgres. I have also developed new components to improve user experience using React.js, Next.js and Redux. 
   
 - :star: I have worked on the [RocketChat GitHub Integration](https://github.com/RocketChat/Apps.Github22) under [Google Summer of Code](https://summerofcode.withgoogle.com/programs/2022/projects/dzvkQrUI).
+  
+- :computer: I have previously worked as a Software Engineering intern at [Samsung Research and Development Institute India - Banglore](https://research.samsung.com/sri-b) where I worked on developing an android application and services to fetch metrics of various machine learning models running on android devices. I also developed a dashboard using React.js to visualize the metric data.
   
 - 🌱 I am currently acting as the maintainer of [GitHub Rocket.Chat App](https://github.com/RocketChat/Apps.Github22) and mentoring new folks interested in OpenSource.
 
