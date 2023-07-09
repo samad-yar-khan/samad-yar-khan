@@ -22,7 +22,7 @@
   
 - 🌱 I am currently acting as the maintainer of [GitHub Rocket.Chat App](https://github.com/RocketChat/Apps.Github22) and mentoring new folks interested in OpenSource.
 
-- 👯 I’m looking to collaborate on Opens Source Projects and Hackathons .
+- 👯 I’m looking to collaborate on Opensource Projects and Hackathons .
 
 - 💬 Talk to me about Software Engineering, Open Source and Scaling Web Apps.   
 
