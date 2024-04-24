@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samad-yar-khan.samad-yar-khan)
 
 </p>
-<div size='20px'> Hi! My name is Samad Yar Khan. I am senior year engineering student at NSUT (New Delhi, India). I am interested in Web Technologies , OpenSource and Problem Solving , thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Samad Yar Khan. I am an engineering graudate from NSUT (New Delhi, India) and currently working as a software engineer. I am interested in Web Technologies , OpenSource and Problem Solving , thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
