@@ -3,8 +3,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="30px" height="30px"> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=samad-yar-khan.samad-yar-khan)
-
 </p>
 <div size='20px'> Hi! My name is Samad Yar Khan. I am an engineering graudate from NSUT (New Delhi, India) and currently working as a software engineer. I am interested in Web Technologies , OpenSource and Problem Solving , thank You for taking the time to view my GitHub Profile :smile: 
 </div>
